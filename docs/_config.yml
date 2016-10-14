@@ -1,17 +1,14 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
+title: Kinyou_benkyokai
 description: "A blog about lorem ipsum ..."
 baseurl: "/kinyou_benkyokai" # the subpath of your site
 url: "http://shiv3.github.io"
 
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
+username: shiv3
+user_title: Kinyou_benkyokai
+twitter_username: lailaiskyn
+github_username:  shiv3
 
 # Build settings
 markdown: kramdown
@@ -41,10 +38,6 @@ links:
 # projects in header index
 projects:
   - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+    url: https://github.com/shiv3/kinyou_benkyokai
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

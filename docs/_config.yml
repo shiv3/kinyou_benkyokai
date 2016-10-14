@@ -1,7 +1,7 @@
 title: kinyou_benkyokai
 description: > # 金曜にする勉強会です
   やりたいことをやりたいときにやりたいだけやってそれを教えたいときに誰かにおしえる
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/docs/" 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lailaiskyn
 github_username:  shiv3

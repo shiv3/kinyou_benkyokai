@@ -1,7 +1,7 @@
 title: kinyou_benkyokai
 description: > # 金曜にする勉強会です
   やりたいことをやりたいときにやりたいだけやってそれを教えたいときに誰かにおしえる
-baseurl: "/docs/" 
+baseurl: "/kinyou_benkyokai" 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lailaiskyn
 github_username:  shiv3
